@@ -89,7 +89,7 @@ Sometimes your mouse needs to be paired again.
 3. Turn the mouse off and on
 4. Click **Connect**
 
-Re-pairing fixes most **Magic Mouse not connecting** problems. ([JustAnswer][2])
+Re-pairing fixes most **Magic Mouse not connecting** problems. 
 
 ---
 
@@ -101,7 +101,7 @@ If the cursor doesn’t move:
 * Check the sensor area
 * Blow air or gently clean it
 
-Even small dust particles can block tracking and stop the mouse from working. ([Сообщество поддержки Apple][1])
+Even small dust particles can block tracking and stop the mouse from working. 
 
 ---
 
@@ -142,7 +142,7 @@ It sounds obvious, but:
 * Check the switch at the bottom
 * Ensure the green light is visible
 
-Sometimes the mouse may accidentally be turned off. ([iFixit][3])
+Sometimes the mouse may accidentally be turned off. 
 
 ---
 
@@ -154,7 +154,7 @@ You can connect your Magic Mouse to your Mac with a cable temporarily:
 * Wait a moment
 * Disconnect
 
-This can force pairing and fix connection problems. ([support.apple.com][4])
+This can force pairing and fix connection problems. 
 
 ---
 
