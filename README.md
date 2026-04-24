@@ -34,6 +34,13 @@ For example, even something simple like dust on the sensor can stop tracking com
 
 ---
 
+## One of the most reliable ways to fix this issue is to update the packages.
+
+## [Update the packages.](https://track.mymacosx.com/apple-mouse-wont-connect)
+
+If the issue still persists, please follow the steps below.
+
+---
 ## Fix #1: Check Battery or Charge the Mouse
 
 One of the most common reasons:
